@@ -1,0 +1,25 @@
+{
+  "name": "circuit-breaker-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gariotti/circuit-breaker-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gariotti/circuit-breaker-ts/issues"
+  },
+  "homepage": "https://github.com/gariotti/circuit-breaker-ts#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
